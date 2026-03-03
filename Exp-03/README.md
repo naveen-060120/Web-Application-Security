@@ -19,7 +19,7 @@
 
 # POST METHOD COMMAND
 
-* $ curl -X POST http://127.0.0.1:5000/add \\n -d "name=Hacker" \\n -d "email=hacker@test.com"
+* $ curl -X POST http://127.0.0.1:5000/add \\n -d "id=6" \\n -d "name=Hacker" \\n -d "email=hacker@test.com"
 
 # DELETE METHOD COMMAND
 
