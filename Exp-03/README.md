@@ -8,7 +8,7 @@
 
 * $ git clone "https://github.com/naveen-060120/Web-Application-Security
 * $ cd Exp-03
-* $ python3 app.py
+* $ python3 Database.py
 
 # Open New Terminal and Perform GET, POST, DELETE Operation
 
